@@ -45,13 +45,14 @@ export default {
     return {
       items: [
         { 
-        title: 'Users', 
+        title: 'Registro de Usuarios', 
         icon: 'mdi-account-group-outline',
         path:'/dashboard/users',
 
 
         },
-        { title: 'My Account', icon: 'mdi-account', path:'/dashboard',},
+        { title: 'Dashboard tonto', icon: 'mdi-account', path:'/dashboard',},
+        { title: 'Lista de libros', icon: 'mdi-book', path:'/dashboard/libros',},
       ]
     }
   }
