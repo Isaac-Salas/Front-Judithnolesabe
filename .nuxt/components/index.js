@@ -1,8 +1,8 @@
-export { default as DashboardDrawer } from '../..\\components\\dashboard\\Drawer.vue'
-export { default as DashboardTabla } from '../..\\components\\dashboard\\Tabla.vue'
 export { default as UsersLoginVue } from '../..\\components\\users\\LoginVue.vue'
 export { default as UsersRegisterVue } from '../..\\components\\users\\RegisterVue.vue'
 export { default as UsersUsuariosVue } from '../..\\components\\users\\UsuariosVue.vue'
+export { default as DashboardAquieditasJudith } from '../..\\components\\dashboard\\AquieditasJudith.vue'
+export { default as DashboardDrawer } from '../..\\components\\dashboard\\Drawer.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {
