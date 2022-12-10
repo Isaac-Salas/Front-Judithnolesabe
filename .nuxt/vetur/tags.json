@@ -1,0 +1,17 @@
+{
+  "DashboardDrawer": {
+    "description": "Auto imported from components/dashboard/Drawer.vue"
+  },
+  "DashboardTabla": {
+    "description": "Auto imported from components/dashboard/Tabla.vue"
+  },
+  "UsersLoginVue": {
+    "description": "Auto imported from components/users/LoginVue.vue"
+  },
+  "UsersRegisterVue": {
+    "description": "Auto imported from components/users/RegisterVue.vue"
+  },
+  "UsersUsuariosVue": {
+    "description": "Auto imported from components/users/UsuariosVue.vue"
+  }
+}
