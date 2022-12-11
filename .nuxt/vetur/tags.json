@@ -1,4 +1,10 @@
 {
+  "DashboardAquieditasJudith": {
+    "description": "Auto imported from components/dashboard/AquieditasJudith.vue"
+  },
+  "DashboardDrawer": {
+    "description": "Auto imported from components/dashboard/Drawer.vue"
+  },
   "UsersLoginVue": {
     "description": "Auto imported from components/users/LoginVue.vue"
   },
@@ -7,11 +13,5 @@
   },
   "UsersUsuariosVue": {
     "description": "Auto imported from components/users/UsuariosVue.vue"
-  },
-  "DashboardAquieditasJudith": {
-    "description": "Auto imported from components/dashboard/AquieditasJudith.vue"
-  },
-  "DashboardDrawer": {
-    "description": "Auto imported from components/dashboard/Drawer.vue"
   }
 }
