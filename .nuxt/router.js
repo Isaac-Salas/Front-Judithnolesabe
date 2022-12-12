@@ -8,6 +8,7 @@ const _af108716 = () => interopDefault(import('..\\pages\\dashboard\\index.vue' 
 const _428c2392 = () => interopDefault(import('..\\pages\\registration\\index.vue' /* webpackChunkName: "pages/registration/index" */))
 const _c8bebfb8 = () => interopDefault(import('..\\pages\\dashboard\\libros\\index.vue' /* webpackChunkName: "pages/dashboard/libros/index" */))
 const _3904f777 = () => interopDefault(import('..\\pages\\dashboard\\users\\index.vue' /* webpackChunkName: "pages/dashboard/users/index" */))
+const _3ee85cfd = () => interopDefault(import('..\\pages\\dashboard\\libros\\Jsus\\index.vue' /* webpackChunkName: "pages/dashboard/libros/Jsus/index" */))
 const _3e468b2b = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
@@ -37,6 +38,10 @@ export const routerOptions = {
     path: "/dashboard/users",
     component: _3904f777,
     name: "dashboard-users"
+  }, {
+    path: "/dashboard/libros/Jsus",
+    component: _3ee85cfd,
+    name: "dashboard-libros-Jsus"
   }, {
     path: "/",
     component: _3e468b2b,

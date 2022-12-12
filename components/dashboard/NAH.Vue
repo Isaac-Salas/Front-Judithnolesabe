@@ -18,22 +18,18 @@
             </v-card-title>
           </v-row>
 
-          <v-row>
             <v-card-title class="text-subtitle-1">
               By: Manjeet Rafa'el.
             </v-card-title>
             <v-card-title class="text-subtitle-2">
               Genero: Drama.
             </v-card-title>
-          </v-row>
-
         </v-col>
 
     </v-col>
 
     <v-col cols="4" style="align-self: center;">
         <v-img
-        @click=""
         lazy-src="https://picsum.photos/id/11/10/6"
         max-height="250"
         max-width="250"
@@ -46,15 +42,12 @@
             </v-card-title>
           </v-row>
 
-          <v-row>
             <v-card-title class="text-subtitle-1">
               By: Liraz Elly.
             </v-card-title>
             <v-card-title class="text-subtitle-2">
               Genero: Drama Religioso.
             </v-card-title>
-          </v-row>
-
         </v-col>
 
     </v-col>
@@ -74,16 +67,12 @@
             </v-card-title>
           </v-row>
 
-          <v-row>
             <v-card-title class="text-subtitle-1">
               By: Shamil Nanna.
             </v-card-title>
             <v-card-title class="text-subtitle-2">
               Genero: Infantil.
             </v-card-title>
-          </v-row>
-
-
         </v-col>
 
     </v-col>
@@ -106,14 +95,12 @@
             </v-card-title>
           </v-row>
 
-            <v-row>
               <v-card-title class="text-subtitle-1">
               By: Helena Sabrina.
             </v-card-title>
             <v-card-title class="text-subtitle-2">
               Genero: Fantasia.
             </v-card-title>
-            </v-row>
 
         </v-col>
      
@@ -134,14 +121,14 @@
             </v-card-title>
             </v-row>
 
-            <v-row>
+
               <v-card-title class="text-subtitle-1">
               By: Vaiva Lutgard.
             </v-card-title>
             <v-card-title class="text-subtitle-2">
               Genero: Infantil.
             </v-card-title>
-            </v-row>
+
 
         </v-col>
      
@@ -163,14 +150,14 @@
             </v-card-title>
           </v-row>
       
-            <v-row>
+
               <v-card-title class="text-subtitle-1">
               By: Rufus Samuel.
             </v-card-title>
             <v-card-title class="text-subtitle-2">
               Genero: Romance.
             </v-card-title>
-            </v-row>
+
         </v-col>
 
     </v-col>
@@ -193,14 +180,14 @@
             </v-card-title>
           </v-row>
          
-            <v-row>
+
               <v-card-title class="text-subtitle-1">
               By: Louise Alve.
             </v-card-title>
             <v-card-title class="text-subtitle-2">
               Genero: Educativo.
             </v-card-title>
-            </v-row>
+
         </v-col>
 
     </v-col>
@@ -219,14 +206,14 @@
             </v-card-title>
           </v-row>
 
-           <v-row>
+
             <v-card-title class="text-subtitle-1">
               By: Céfiro Tylor.
             </v-card-title>
             <v-card-title class="text-subtitle-2">
               Genero: Fantasia.
             </v-card-title>
-           </v-row>
+
         </v-col>
 
     </v-col>
@@ -245,14 +232,14 @@
              When the sun goes out
             </v-card-title>
           </v-row>
-            <v-row>
+ 
               <v-card-title class="text-subtitle-1">
               By: Vihaan Wīgaberhtaz.
             </v-card-title>
             <v-card-title class="text-subtitle-2">
               Genero: Horror.
             </v-card-title>
-            </v-row>
+
 
         </v-col>
 
